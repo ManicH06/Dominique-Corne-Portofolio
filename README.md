@@ -20,13 +20,10 @@ Voici quelques-unes des technologies et outils que vous retrouverez dans mes pro
 Voici une liste de mes projets que vous retrouverez dans ce dépôt :
 
 1. **Domi-Recipes** - Une API React avec une barre de navigation pour apprendre le concept de Single-Page Application.
-![image](https://github.com/user-attachments/assets/82852a7e-d833-48c0-bb65-fe622d78cea8)
-
-
-
+   ![image](https://github.com/user-attachments/assets/82852a7e-d833-48c0-bb65-fe622d78cea8)
 
 ### Cloner le dépôt
 
 ```bash
-git clone https://github.com/ManicH06/Dominique-porfotolio.git
-
+git clone git@github.com:ManicH06/Dominique-Corne-Portofolio.git
+```
