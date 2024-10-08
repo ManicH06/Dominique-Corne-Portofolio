@@ -1,0 +1,30 @@
+@hostname = http://localhost:3000
+
+GET {{hostname}}/directors HTTP/1.1
+###
+GET {{hostname}}/movies HTTP/1.1
+###
+GET {{hostname}}/reviews HTTP/1.1
+
+###
+POST {{hostname}}/directors HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "Dominique Corne",
+  "birthdate": "1997-10-15",
+  "nationality": "French"
+}
+
+###
+PUT {{hostname}}/directors/66de2aa678397340b6f447b5 HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "John Smith",
+  "birthdate": "1995-10-15",
+  "nationality": "French"
+}
+
+###
+DELETE {{hostname}}/directors/66de2a4c78397340b6f447b4 HTTP/1.1
