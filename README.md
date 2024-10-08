@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 
-Je suis **_Dominique CORNE_**, étudiant en Développement et Conception d'Application Web 💻, actuellement en formation chez O'Clock. Passionné par la technologie et la création de solutions innovantes, je suis en reconversion professionnelle vers le développement web après avoir étudié à Epitech et suivi un parcours en langue chinoise.
+Je suis **_Dominique CORNE_**, étudiant en Développement et Conception d'Application Web 💻, actuellement en formation chez O'Clock. Passionné par la technologie et la création de solutions innovantes, je suis en reconversion professionnelle vers le développement web après avoir étudié deux années à Epitech et suivi un parcours en langue chinoise.
 
 Je suis à la recherche d'un stage pour mettre en pratique mes compétences dans des technologies comme **JavaScript**, **Node.js**, **MongoDB**, et bien d'autres. Ce dépôt regroupe l'ensemble des projets réalisés dans le cadre de ma formation et mes projets personnels.
 
