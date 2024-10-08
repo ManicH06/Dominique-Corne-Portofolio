@@ -21,6 +21,7 @@ Voici une liste de mes projets que vous retrouverez dans ce dépôt :
 
 1. **Domi-Recipes** - Une API React avec une barre de navigation pour apprendre le concept de Single-Page Application.
    ![image](https://github.com/user-attachments/assets/82852a7e-d833-48c0-bb65-fe622d78cea8)
+2. **Project Movies** - Une application Express pour gérer une collection de films en utilisant MongoDB pour stocker les données avec les fonctions CRUD.
 
 ### Cloner le dépôt
 
