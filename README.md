@@ -1,10 +1,27 @@
 # Bienvenue sur mon dépôt GitHub 👋
 
+🔎 En recherche d’un poste en développement full stack NodeJS pour concrétiser mes compétences et contribuer à des projets ambitieux.
+
 ## Qui suis-je ?
 
-Je suis **_Dominique CORNE_**, étudiant en Développement et Conception d'Application Web 💻, actuellement en formation chez O'Clock. Passionné par la technologie et la création de solutions innovantes, je suis en reconversion professionnelle vers le développement web après avoir étudié deux années à Epitech et suivi un parcours en langue chinoise.
+💻 Passionné par les technologies web et la création de solutions innovantes, je suis diplômé de la formation intensive Développement Web chez O'Clock Bac + 4 (après un parcours partiel à Epitech et des études en chinois).
 
-Je suis à la recherche d'un stage pour mettre en pratique mes compétences dans des technologies comme **JavaScript**, **Node.js**, **MongoDB**, et bien d'autres. Ce dépôt regroupe l'ensemble des projets réalisés dans le cadre de ma formation et mes projets personnels.
+🚀 Expérience récente :
+
+    Stage en développement full stack (réalisation d'un agrégateur des réseaux sociaux avec Mistral AI, React / Symfony)
+    
+    Pratique des méthodologies Agile et travail en équipe (gestion de projet et des autres stagiaires)
+
+🔧 Stack technique :
+
+    Frontend : React, HTML/CSS, Tailwind
+
+    Backend : Node.js, Express, API REST, PHP Symfony
+
+    Bases de données : MongoDB, PostgreSQL
+
+    Outils : Git, VS Code, Postman, AWS, APIs 
+
 
 ## Technologies utilisées
 
@@ -23,8 +40,3 @@ Voici une liste de mes projets que vous retrouverez dans ce dépôt :
    ![image](https://github.com/user-attachments/assets/82852a7e-d833-48c0-bb65-fe622d78cea8)
 2. **Project Movies** - Une application Express pour gérer une collection de films en utilisant MongoDB pour stocker les données avec les fonctions CRUD.
 
-### Cloner le dépôt
-
-```bash
-git clone git@github.com:ManicH06/Dominique-Corne-Portofolio.git
-```
